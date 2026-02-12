@@ -1,0 +1,2 @@
+-- Seed data placeholder
+-- This file is replaced by pipeline C6: DEPLOY

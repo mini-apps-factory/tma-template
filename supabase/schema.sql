@@ -1,0 +1,15 @@
+-- Supabase Schema Placeholder
+-- This file is replaced by pipeline C2: ARCHITECTURE
+-- 
+-- Example:
+-- CREATE TABLE profiles (
+--   id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+--   telegram_id BIGINT UNIQUE NOT NULL,
+--   first_name TEXT,
+--   last_name TEXT,
+--   username TEXT,
+--   photo_url TEXT,
+--   created_at TIMESTAMPTZ DEFAULT now()
+-- );
+--
+-- ALTER TABLE profiles ENABLE ROW LEVEL SECURITY;
