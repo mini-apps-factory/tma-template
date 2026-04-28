@@ -2,5 +2,4 @@
 // Run: npx supabase gen types typescript --project-id <id> > src/types/database.ts
 export type Database = Record<string, never>; // Placeholder
 
-// Re-export all types
-export type { TelegramUser } from './telegram.d';
+// TelegramUser is available globally via telegram.d.ts ambient declarations
